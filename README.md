@@ -2,6 +2,9 @@
 
 
 Xml布局如下：
+
+
+
      <com.qzsang.recyclerheadviewlib.RecyclerHeadView
            ...>
 
